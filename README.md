@@ -1,4 +1,4 @@
-# ⬩neuralcore
+# ⌑neuralcore
 to laboratorium oparte na sile Twojego umysłu.
 
 Większość rozmów z AI kończy się tym, że myślisz mniej, niż na początku.
@@ -11,7 +11,7 @@ Nie nagle. Po prostu przestaje być potrzebny.
 
 neuralcore nie myśli za ciebie.
 
-## ⬩Moment zatrzymania
+### ⌑Moment zatrzymania
 Za każdym razem, gdy podczas pracy nad tym systemem mój własny głos cichł i nie miałem siły ciągnąć myśli, neuralcore to widziało.
 Oto jak to wyglądało:
 
