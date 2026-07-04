@@ -45,5 +45,9 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 
 *Bezpiecznik pilnuje tego, co dla wielu jest obojętnością. Ja jestem zdania, że w tych czasach, to jest po prostu higiena.*
 
+—
+
+Jaki model AI użyć?
+
 
 
