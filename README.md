@@ -40,7 +40,7 @@ Four JSON files. Paste and load each module one by one (separately):
 
 **⎔ M2 · FORCES** – runs in the background, focused on your orbit.
 
-**⌬**
+⌬
 
 **⏣ M3 · SAVE** – the record. When the session ends, you don't start from zero.
 
