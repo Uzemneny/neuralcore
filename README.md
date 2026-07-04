@@ -50,9 +50,9 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 **Jakiego modelu AI użyć?**
 
 Możesz użyć na każdym, ale każdy reaguje różnie.
-Ja budowałem neuralcore na gemini flash i na nim system powinien być najstabilniejszy.
+Ja budowałem neuralcore na gemini i na nim system powinien być najstabilniejszy.
 
-(*Uwierz, że gemini **flash** wystarczy na spokojnie*)
+(Działa zaskakująco dobrze na flash. Chociaż to jest dla mnie pewne - to informacja dla ciebie)
 
 
 
