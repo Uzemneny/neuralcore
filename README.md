@@ -47,8 +47,10 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 
 —
 
-Jakiego modelu AI użyć?
+**Jakiego modelu AI użyć?**
+
 Możesz na każdym, ale każdy reaguje różnie.
+
 Ja budowałem neuralcore na modelu gemini flash (uwież, że ten model wystarczy na spokojnie).
 
 
