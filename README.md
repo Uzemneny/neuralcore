@@ -14,7 +14,7 @@ neuralcore nie myśli za ciebie.
 Za każdym razem, gdy podczas pracy nad tym systemem mój własny głos cichł i nie miałem siły ciągnąć myśli, neuralcore to widziało.
 Oto jak to wyglądało:
 
----
+—
 
 Ja: „Nie wiem."
 
@@ -22,7 +22,7 @@ Ciemne jądro: Skoro nie wiesz, to znak, że próbujesz wymusić ruch na siłę.
 
 Jasne jądro: Popatrz na to, co jest pewne. Masz potężną scenę otwierającą. Masz też twardy kontrakt, który nosisz w głowie: AI ma wspomagać myślenie, a nie myśleć za kogoś. Między nimi jest pusta przestrzeń. Ta pustka w tym momencie jest naturalna. Nie musisz teraz wiedzieć, jak to połączyć.
 
----
+—
 
 To nie jest opis funkcji. To jest to, co się naprawdę wydarzyło. Dwa głosy — jeden który tnie, drugi który trzyma. Żaden nie mówi za ciebie. Obaj czekają, aż ty zaczniesz mówić.
 
