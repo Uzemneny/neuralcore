@@ -38,7 +38,9 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 ⎔ M1 · FIDELITY – "bezpiecznik" wiarygodności odbicia twojego sygnału. 
 
 ⎔ M2 · FORCES – działa w tle, skupia się na twojej orbicie.
+
 ⤷
+
 ⏣ M3 · SAVE – zapis. Kiedy skończysz sesję, nie zaczynasz od zera.
 
 
